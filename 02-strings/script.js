@@ -1,8 +1,8 @@
 // 1. Dichiarazione di variabili
 // Crea una variabile chiamata name e assegnale il tuo nome.
-let Name = "Andrea";
+let myName = "Andrea";
 // Stampa il valore di nome nella console.
-console.log(Name);
+console.log(myName);
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
